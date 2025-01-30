@@ -26,7 +26,7 @@ function removeAds() {
     }
 }
 
-
+updae this file
 removeAds();
 
 // Ensures ads will be removed as the user scrolls
